@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/Display.h
+iostream
+-
+OpenGL/gl.h
+-
+
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/Shape.h
+OpenGL/gl.h
+-
+Transformation/Transformation.h
+-
+
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/WindMill.h
+Shape.h
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/Shape.h
+
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/main.cpp
+iostream
+-
+OpenGL/gl.h
+-
+GLUT/glut.h
+-
+WindMill.h
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/WindMill.h
+Display.h
+/Users/shadowlegend/zaman/computer-graphic/transformation/src/Display.h
+
+include/Matrix/Matrix.h
+
+include/Transformation/Transformation.h
+Matrix/Matrix.h
+-
+Vector/Vector.h
+-
+
+include/Vector/Vector.h
+

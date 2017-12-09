@@ -1,0 +1,3 @@
+/Users/shadowlegend/zaman/computer-graphic/transformation/CMakeFiles/rebuild_cache.dir
+/Users/shadowlegend/zaman/computer-graphic/transformation/CMakeFiles/edit_cache.dir
+/Users/shadowlegend/zaman/computer-graphic/transformation/CMakeFiles/transformation.dir
